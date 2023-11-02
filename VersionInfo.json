@@ -1,7 +1,10 @@
 {
-    "latestVersion": "1.0",
-    "releaseNotes": [],
-    "isMandatory": false,
+    "latestVersion": "1.1",
+    "releaseNotes": ["test1", "test2", "test3"],
+    "isMandatory": true,
     "downloadUrl": "",
-    "imageUrls": []
+    "imageUrls": [
+        "",
+        ""
+    ]
 }
