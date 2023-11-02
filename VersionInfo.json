@@ -2,7 +2,7 @@
     "latestVersion": "1.1",
     "releaseNotes": ["test1", "test2", "test3"],
     "isMandatory": false,
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/tdkms/V2rayPG/releases/download/v1.1/V2rayPG.apk",
     "imageUrls": [
         "",
         ""
